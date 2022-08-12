@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SFChat</string>
+    <string name="verify_your_phone_number">Verify your phone number</string>
+    <string name="sfchat_will_send_an_sms_to_verify_your_phone_number">SFChat will send an SMS to verify your phone number</string>
+    <string name="type_your_phone_no">Type your phone no</string>
+    <string name="continueBtn">Continue</string>
+    <string name="resend">Resend</string>
+    <string name="longTextView">There was is crow her was very thirsty. He flew here and there in seach of water. At last he reached a garden. He saw a pitcher of water there. But the water was so low that his beak could not reach on it.d</string>
+</resources>

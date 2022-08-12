@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898578174654",
+    "firebase_url": "https://sfchat-1a474-default-rtdb.firebaseio.com",
+    "project_id": "sfchat-1a474",
+    "storage_bucket": "sfchat-1a474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898578174654:android:8c802fbc78f7f4c61584ef",
+        "android_client_info": {
+          "package_name": "com.sahilssoft.sfchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898578174654-ibraoau5st7muneaoucr7i00qfa9c67f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahilssoft.sfchat",
+            "certificate_hash": "4d505ec5f90c8ab8639b69182126d2dc315b4230"
+          }
+        },
+        {
+          "client_id": "898578174654-aocm2qkqfva8la4arpnifasd3vg1iai1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQD1KZlbDzroJlviPDhp7GrLlv8okHCPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898578174654-aocm2qkqfva8la4arpnifasd3vg1iai1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
